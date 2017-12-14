@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ce2de311-63cf-4326-b404-808efc8ddd3b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SemiB_face_detection.py</StartupFile>
+    <StartupFile>smile_detection.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
