@@ -3,6 +3,7 @@ Test6012
 time
 TestPendingCalls
 Test_testcapi
+Py_DEBUG
 MISSING_C_DOCSTRINGS
 SkipitemTest
 pickle
@@ -18,10 +19,10 @@ sysconfig
 CAPITest
 assert_python_failure
 InstanceMethod
-Py_DEBUG
+assert_python_ok
 PyMemMallocDebugTests
-re
 _testcapi
+re
 TestThreadState
 PyMemDebugTests
 testfunction

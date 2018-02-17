@@ -36,4 +36,5 @@ add_subclass_tests
 PyTask_PyFuture_Tests
 PY34
 tasks
+gc
 PyTask_PyFuture_SubclassTests

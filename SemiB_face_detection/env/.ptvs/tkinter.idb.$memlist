@@ -66,7 +66,7 @@ S
 font
 MULTIPLE
 print
-ALL
+int
 NE
 DoubleVar
 AttributeError
@@ -168,7 +168,7 @@ HORIZONTAL
 exec
 _default_root
 id
-int
+ALL
 Y
 X
 FALSE

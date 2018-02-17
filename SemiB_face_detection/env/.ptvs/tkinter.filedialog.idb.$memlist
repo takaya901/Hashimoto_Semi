@@ -37,11 +37,10 @@ NoDefaultRoot
 SaveFileDialog
 Button
 Scrollbar
-WRITABLE
 BROWSE
 BUTT
 dialogstates
-Open
+SEL_LAST
 LabelFrame
 os
 commondialog
@@ -49,7 +48,6 @@ RADIOBUTTON
 SINGLE
 FLAT
 _Dialog
-TclError
 Message
 asksaveasfile
 PIESLICE
@@ -59,6 +57,7 @@ S
 image_types
 font
 MULTIPLE
+ALL
 Y
 NE
 DoubleVar
@@ -106,7 +105,6 @@ getboolean
 MOVETO
 Scale
 OptionMenu
-READABLE
 PhotoImage
 Entry
 CallWrapper
@@ -123,7 +121,7 @@ DOTBOX
 StringVar
 Event
 test
-SEL_LAST
+Open
 NSEW
 PROJECTING
 END
@@ -141,7 +139,6 @@ HIDDEN
 Frame
 W
 image_names
-EXCEPTION
 filedialog
 ANCHOR
 RIDGE
@@ -149,7 +146,6 @@ XView
 OUTSIDE
 HORIZONTAL
 print
-ALL
 askopenfilename
 X
 FALSE

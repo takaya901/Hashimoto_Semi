@@ -3,13 +3,12 @@ collections
 PurePosixPathTest
 PosixFlavourTest
 TESTFN
-WindowsPathAsPureTest
+mock
 grp
 only_posix
 symlink_skip_reason
 pickle
 pathlib
-android_not_root
 BASE
 NTFlavourTest
 _BaseFlavourTest
@@ -22,7 +21,7 @@ WindowsPathTest
 socket
 with_symlinks
 PurePathTest
-mock
+WindowsPathAsPureTest
 support
 join
 os

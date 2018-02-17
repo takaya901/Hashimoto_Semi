@@ -1,7 +1,7 @@
 Misc
 YES
 IntVar
-NONE
+Tcl
 SimpleDialog
 Variable
 __name__
@@ -34,7 +34,6 @@ CHAR
 NoDefaultRoot
 Button
 Scrollbar
-WRITABLE
 BROWSE
 BUTT
 ValueError
@@ -44,15 +43,14 @@ RADIOBUTTON
 SINGLE
 FLAT
 NORMAL
-TclError
 Message
 E
 dnd
 S
 _QueryString
-EXCEPTION
 font
 MULTIPLE
+ALL
 X
 DoubleVar
 CHECKBUTTON
@@ -69,12 +67,12 @@ Canvas
 LAST
 BOTTOM
 MITER
-BOTH
+Wm
 CURRENT
 BooleanVar
-Dialog
-Tcl
+NONE
 EXTENDED
+Dialog
 INSIDE
 Radiobutton
 GROOVE
@@ -96,7 +94,6 @@ getboolean
 MOVETO
 Scale
 OptionMenu
-READABLE
 PhotoImage
 Entry
 CallWrapper
@@ -138,7 +135,6 @@ XView
 OUTSIDE
 HORIZONTAL
 print
-ALL
 Y
 NE
 FALSE
@@ -156,6 +152,6 @@ YView
 ttk
 messagebox
 wantobjects
-Wm
+BOTH
 CENTER
 tkinter

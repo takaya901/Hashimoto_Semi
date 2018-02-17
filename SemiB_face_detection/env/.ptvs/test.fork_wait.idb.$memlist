@@ -1,10 +1,10 @@
 LONGSLEEP
 os
-_thread
+time
+threading
 NUM_THREADS
 SHORTSLEEP
 support
 ForkWait
-time
 sys
 unittest

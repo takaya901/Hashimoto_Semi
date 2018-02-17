@@ -8,6 +8,7 @@ normalize_output
 TEST_STRING_1
 TEST_STRING_2
 SmallPtyTests
+io
 signal
 errno
 pty
@@ -16,3 +17,4 @@ os
 socket
 PtyTest
 unittest
+_readline

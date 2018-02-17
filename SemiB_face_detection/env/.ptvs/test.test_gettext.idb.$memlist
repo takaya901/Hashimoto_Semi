@@ -1,8 +1,10 @@
 LOCALEDIR
 GettextTestCase2
 GettextTestCase1
+LGettextTestCase
 GNU_MO_DATA_ISSUE_17898
 MOFILE_BAD_MINOR_VERSION
+locale
 MiscTestCase
 GNU_MO_DATA_BAD_MINOR_VERSION
 base64

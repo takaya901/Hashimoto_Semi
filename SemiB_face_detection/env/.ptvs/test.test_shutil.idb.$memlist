@@ -16,11 +16,10 @@ register_unpack_format
 TermsizeTests
 UID_GID_SUPPORT
 SameFileError
-android_not_root
 unpack_archive
 zipfile
+unregister_unpack_format
 _fake_rename
-get_unpack_formats
 pwd
 tarfile
 register_archive_format
@@ -41,4 +40,4 @@ read_file
 tempfile
 shutil
 stat
-unregister_unpack_format
+get_unpack_formats

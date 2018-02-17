@@ -13,4 +13,5 @@ _run_pip
 _disable_pip_configuration_settings
 __main__
 bootstrap
+_bootstrap
 _uninstall_helper

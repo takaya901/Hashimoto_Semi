@@ -54,6 +54,7 @@ fmtdict
 MAXSHAPE
 MEMORYVIEW
 carray
+os
 getindex
 slice_shape
 py_buffer_to_contiguous

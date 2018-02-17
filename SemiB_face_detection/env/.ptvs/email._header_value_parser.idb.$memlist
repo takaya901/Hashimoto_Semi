@@ -1,4 +1,4 @@
-Comment
+get_unstructured
 Value
 get_bare_quoted_string
 get_obs_route
@@ -29,6 +29,7 @@ DotAtom
 hexdigits
 _non_extended_attribute_end_matcher
 BareQuotedString
+_refold_parse_tree
 UnstructuredTokenList
 DOT
 InvalidMailbox
@@ -46,7 +47,6 @@ get_atext
 Attribute
 DomainLiteral
 quote_string
-_Folded
 DotAtomText
 RouteComponentMarker
 WSP
@@ -62,7 +62,7 @@ get_section
 get_attrtext
 ParameterizedHeaderValue
 get_name_addr
-get_unstructured
+Comment
 Section
 get_ttext
 ContentDisposition
@@ -73,6 +73,7 @@ Group
 Terminal
 CFWS_LEADER
 TokenList
+_fold_mime_parameters
 get_quoted_string
 itemgetter
 get_cfws
@@ -110,12 +111,14 @@ ValueTerminal
 SPECIALS
 ObsRoute
 WhiteSpaceTerminal
+_steal_trailing_WSP_if_exists
 _ew
 get_dot_atom_text
 _non_atom_end_matcher
 get_obs_local_part
 NameAddr
 AddrSpec
+_fold_as_ew
 get_mailbox
 get_dot_atom
 get_domain_literal

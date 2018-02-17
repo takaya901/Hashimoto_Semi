@@ -13,10 +13,10 @@ cert_time_to_seconds
 HAS_NPN
 _Enum
 _ipaddress_match
-errno
 get_protocol_name
+HAS_ECDH
 SSLWantWriteError
-SSLZeroReturnError
+errno
 _create_stdlib_context
 enum_crls
 SSLError
@@ -35,7 +35,7 @@ CHANNEL_BINDING_TYPES
 SSLWantReadError
 OPENSSL_VERSION_NUMBER
 RAND_status
-SSLSocket
+HAS_TLSv1_3
 PEM_cert_to_DER_cert
 _SSLv2_IF_EXISTS
 SSLSession
@@ -52,7 +52,7 @@ SOCK_STREAM
 base64
 create_default_context
 _ssl
-HAS_ECDH
+SSLZeroReturnError
 _nid2obj
 socket_error
 sys
@@ -67,6 +67,7 @@ PROTOCOL_SSLv23
 _create_unverified_context
 get_server_certificate
 RAND_pseudo_bytes
+SSLSocket
 _OPENSSL_API_VERSION
 SSLSyscallError
 Purpose

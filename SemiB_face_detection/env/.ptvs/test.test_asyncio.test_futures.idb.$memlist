@@ -1,7 +1,7 @@
 sys
 DuckFuture
 first_cb
-CFutureTests
+BaseFutureTests
 mock
 _fakefunc
 re
@@ -9,8 +9,9 @@ support
 PyFutureTests
 last_cb
 CFutureDoneCallbackTests
+CFutureTests
 test_utils
-BaseFutureTests
+gc
 BaseFutureDoneCallbackTests
 DuckTests
 PyFutureDoneCallbackTests

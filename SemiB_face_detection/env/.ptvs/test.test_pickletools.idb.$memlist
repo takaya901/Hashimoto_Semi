@@ -1,8 +1,7 @@
 pickle
-AbstractPickleModuleTests
+OptimizedPickleTests
 test_main
 pickletools
-OptimizedPickleTests
 support
 MiscTestCase
 AbstractPickleTests

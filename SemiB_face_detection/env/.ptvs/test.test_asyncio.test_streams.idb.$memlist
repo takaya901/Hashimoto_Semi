@@ -1,4 +1,5 @@
 StreamReaderTests
+pickle
 os
 socket
 threading

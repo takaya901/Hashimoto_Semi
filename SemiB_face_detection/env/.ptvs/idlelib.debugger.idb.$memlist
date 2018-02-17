@@ -24,7 +24,7 @@ BitmapImage
 Idb
 SEPARATOR
 BEVEL
-PhotoImage
+BaseWidget
 PAGES
 Grid
 scrolledtext
@@ -36,7 +36,6 @@ NoDefaultRoot
 sorted
 Button
 Scrollbar
-WRITABLE
 BROWSE
 BUTT
 Debugger
@@ -53,7 +52,6 @@ E
 RAISED
 image_types
 font
-ANCHOR
 MULTIPLE
 X
 NE
@@ -100,8 +98,7 @@ getboolean
 MOVETO
 Scale
 OptionMenu
-READABLE
-BaseWidget
+PhotoImage
 Entry
 CallWrapper
 LEFT
@@ -132,7 +129,7 @@ W
 image_names
 S
 filedialog
-EXCEPTION
+ANCHOR
 RIDGE
 XView
 OUTSIDE

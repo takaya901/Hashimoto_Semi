@@ -31,7 +31,7 @@ OptionMenu
 TK_TABWIDTH_DEFAULT
 tokenize
 run
-Entry
+BaseWidget
 PAGES
 tkMessageBox
 Grid
@@ -68,11 +68,10 @@ image_types
 font
 MULTIPLE
 NameError
-int
+ALL
 get_accelerator
 X
 DoubleVar
-AttributeError
 CHECKBUTTON
 hasattr
 SE
@@ -80,7 +79,7 @@ Image
 EW
 Toplevel
 DISABLED
-Text
+NW
 importlib
 fixwordbreaks
 _py_version
@@ -130,10 +129,9 @@ idleConf
 eventname
 Scale
 isinstance
-READABLE
 help_about
 grep
-BaseWidget
+Entry
 PhotoImage
 CallWrapper
 LEFT
@@ -143,7 +141,6 @@ str
 SUNKEN
 sys
 simpledialog
-WRITABLE
 search
 DOTBOX
 classifyws
@@ -170,7 +167,6 @@ HIDDEN
 Frame
 W
 image_names
-EXCEPTION
 filedialog
 ANCHOR
 RIDGE
@@ -179,7 +175,7 @@ OUTSIDE
 HORIZONTAL
 print
 max
-ALL
+int
 Y
 NE
 FALSE
@@ -192,8 +188,8 @@ Listbox
 SCROLL
 ARC
 TkVersion
+Text
 webbrowser
-NW
 YView
 ttk
 object

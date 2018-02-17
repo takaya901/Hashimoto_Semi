@@ -1,4 +1,5 @@
 sys
+Barrier
 time
 thread
 LockTests
@@ -8,7 +9,7 @@ NUMTRIPS
 random
 BarrierTest
 support
-Barrier
+POLL_SLEEP
 BasicThreadTest
 _print_mutex
 weakref

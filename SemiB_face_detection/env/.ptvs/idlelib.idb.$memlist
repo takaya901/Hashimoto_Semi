@@ -13,6 +13,7 @@ autocomplete_w
 hyperparser
 outwin
 search
+_pyclbr
 browser
 textview
 stackviewer
@@ -23,7 +24,6 @@ undo
 history
 dynoption
 query
-tabbedpages
 help_about
 editor
 debugger
@@ -57,3 +57,4 @@ scrolledlist
 percolator
 mainmenu
 codecontext
+zzdummy

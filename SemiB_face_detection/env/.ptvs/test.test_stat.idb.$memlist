@@ -1,11 +1,10 @@
-TestFilemodePyStat
-android_not_root
-os
-TESTFN
-TestFilemode
 TestFilemodeCStat
-py_stat
-c_stat
+os
 import_fresh_module
+TestFilemode
+TestFilemodePyStat
+py_stat
+TESTFN
+c_stat
 sys
 unittest

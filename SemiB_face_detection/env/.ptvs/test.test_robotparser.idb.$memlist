@@ -10,8 +10,8 @@ AnotherInvalidRequestRateTest
 UserAgentOrderingTest
 BaseRobotTest
 support
+GoogleURLOrderingTest
 InvalidRequestRateTest
-namedtuple
 io
 NetworkTestCase
 InvalidCrawlDelayTest
@@ -20,7 +20,6 @@ PasswordProtectedSiteTestCase
 BaseHTTPRequestHandler
 RejectAllRobotsTest
 DefaultEntryTest
-GoogleURLOrderingTest
 UserAgentGoogleMobileTest
 threading
 unittest

@@ -33,7 +33,6 @@ CHAR
 NoDefaultRoot
 Button
 Scrollbar
-WRITABLE
 BROWSE
 BUTT
 ValueError
@@ -49,9 +48,9 @@ E
 RAISED
 unregister_callback
 image_types
-ANCHOR
 font
 MULTIPLE
+ALL
 X
 DoubleVar
 CHECKBUTTON
@@ -94,7 +93,6 @@ MOVETO
 registry
 Scale
 OptionMenu
-READABLE
 PhotoImage
 Entry
 CallWrapper
@@ -126,13 +124,12 @@ W
 image_names
 S
 filedialog
-EXCEPTION
+ANCHOR
 RIDGE
 XView
 OUTSIDE
 HORIZONTAL
 print
-ALL
 Y
 NE
 FALSE

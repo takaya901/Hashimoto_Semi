@@ -1,13 +1,12 @@
-ClassBrowser
+ModuleBrowser
+run
 _path_browser
 os
 PathBrowser
-sys
 TreeItem
-run
 importlib
 DirBrowserTreeItem
 PathBrowserTreeItem
 main
-PyShellFileList
+sys
 ModuleBrowserTreeItem

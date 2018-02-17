@@ -1,9 +1,11 @@
 ExtensionSaver
 C
+_WithLeadingUnderscoreAndPrivate
 CopyRegTestCase
 WithWeakref
 WithoutSlots
 copyreg
+___
 WithPrivate
 WithSingleString
 WithInherited

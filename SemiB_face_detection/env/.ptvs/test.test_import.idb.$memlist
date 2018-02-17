@@ -1,3 +1,4 @@
+time
 ImportTracebackTests
 make_legacy_pyc
 create_empty_file
@@ -12,6 +13,7 @@ temp_dir
 mock
 CircularImportTests
 importlib
+uncache
 check_warnings
 remove_files
 temp_umask
@@ -28,6 +30,8 @@ skip_if_dont_write_bytecode
 unittest
 errno
 FilePermissionTests
+threading
+DirsOnSysPath
 run_unittest
 rmtree
 swap_attr

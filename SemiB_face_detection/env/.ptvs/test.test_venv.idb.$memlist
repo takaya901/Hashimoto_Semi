@@ -9,6 +9,7 @@ os
 captured_stdout
 skipInVenv
 captured_stderr
+EnsurePipTest
 unittest
 subprocess
 ensurepip
@@ -16,5 +17,5 @@ BaseTest
 BasicTest
 struct
 threading
-EnsurePipTest
+requires_zlib
 rmtree

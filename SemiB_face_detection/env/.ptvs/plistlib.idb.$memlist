@@ -42,5 +42,7 @@ writePlist
 _maybe_open
 binascii
 readPlist
+_undefined
 _date_from_string
+_scalars
 dump

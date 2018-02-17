@@ -18,6 +18,7 @@ show_socket_error
 stackviewer
 _warnings_showwarning
 debugobj_r
+fix_scaling
 handle_tk_events
 idle_formatwarning
 mod

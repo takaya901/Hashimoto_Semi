@@ -1,7 +1,6 @@
 DistutilsTemplateError
 bdist_wininst
 get_python_version
-float
 open
 PreprocessError
 DistutilsError

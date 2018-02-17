@@ -28,7 +28,6 @@ BEVEL
 run
 BaseWidget
 PAGES
-tkMessageBox
 Grid
 scrolledtext
 VERTICAL
@@ -37,7 +36,6 @@ CHAR
 NoDefaultRoot
 Button
 Scrollbar
-WRITABLE
 BROWSE
 BUTT
 LabelFrame
@@ -51,9 +49,10 @@ Message
 PIESLICE
 RAISED
 image_types
-EXCEPTION
+ANCHOR
 font
 MULTIPLE
+ALL
 NE
 DoubleVar
 CHECKBUTTON
@@ -70,7 +69,7 @@ Canvas
 LAST
 BOTTOM
 MITER
-BOTH
+Wm
 CURRENT
 BooleanVar
 Tcl
@@ -94,7 +93,6 @@ getboolean
 MOVETO
 Scale
 OptionMenu
-READABLE
 PhotoImage
 Entry
 CallWrapper
@@ -108,6 +106,7 @@ DOTBOX
 StringVar
 Event
 SEL_LAST
+unittest
 NSEW
 PROJECTING
 END
@@ -125,12 +124,10 @@ W
 image_names
 S
 filedialog
-ANCHOR
 RIDGE
 XView
 OUTSIDE
 HORIZONTAL
-ALL
 Y
 X
 FALSE
@@ -147,5 +144,5 @@ YView
 ttk
 messagebox
 wantobjects
-Wm
+BOTH
 CENTER

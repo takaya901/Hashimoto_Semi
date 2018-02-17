@@ -1,6 +1,6 @@
-temp_filename
 os
 netrc
+tempfile
 NetrcTestCase
 support
 textwrap

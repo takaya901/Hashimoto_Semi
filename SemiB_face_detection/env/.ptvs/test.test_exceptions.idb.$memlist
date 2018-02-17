@@ -1,6 +1,6 @@
 sys
 TESTFN
-ImportErrorTests
+script_helper
 errno
 SlottedNaiveException
 ExceptionTests
@@ -9,6 +9,8 @@ pickle
 os
 run_unittest
 captured_stderr
+SuppressCrashReport
+ImportErrorTests
 check_warnings
 unlink
 BrokenStrException

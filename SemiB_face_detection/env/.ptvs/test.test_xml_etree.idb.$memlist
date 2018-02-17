@@ -22,10 +22,11 @@ copy
 ENTITY_XML
 XIncludeTest
 SAMPLE_XML_NS
-product
+XINCLUDE_BAD
 import_fresh_module
 ElementFindTest
 summarize_list
+UTF8_BUG_XMLFILE
 IOTest
 SIMPLE_XMLFILE
 io
@@ -49,6 +50,6 @@ SAMPLE_XML
 ElementTreeTest
 findfile
 XINCLUDE
-XINCLUDE_BAD
+product
 BadElementTest
 gc_collect

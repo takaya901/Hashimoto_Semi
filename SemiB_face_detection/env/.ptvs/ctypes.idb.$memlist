@@ -8,7 +8,6 @@ LibraryLoader
 WinError
 _wstring_at
 c_ushort
-Union
 SetPointerType
 CDLL
 DllCanUnloadNow
@@ -29,7 +28,6 @@ _CFuncPtr
 WINFUNCTYPE
 DllGetClassObject
 memset
-ArgumentError
 c_int64
 _memset_addr
 _memmove_addr
@@ -39,7 +37,6 @@ _check_HRESULT
 create_string_buffer
 _win_functype_cache
 sizeof
-get_last_error
 c_void_p
 POINTER
 _SimpleCData
@@ -53,24 +50,19 @@ RTLD_GLOBAL
 _FUNCFLAG_PYTHONAPI
 c_uint32
 _sys
-set_errno
 _FUNCFLAG_CDECL
-byref
 cdll
 c_uint
 macholib
 OleDLL
 wintypes
-_Pointer
 oledll
 _pointer_type_cache
 c_float
 c_uint8
 pythonapi
-addressof
 c_char_p
 _FUNCFLAG_USE_ERRNO
-pointer
 c_bool
 Array
 c_ulong
@@ -82,9 +74,7 @@ _FUNCFLAG_STDCALL
 _calcsize
 _wstring_at_addr
 c_short
-get_errno
 _FUNCFLAG_USE_LASTERROR
-alignment
 c_uint64
 c_buffer
 _reset_cache
@@ -92,7 +82,6 @@ cast
 wstring_at
 CFUNCTYPE
 string_at
-resize
 HRESULT
 c_ulonglong
 Structure
@@ -107,7 +96,6 @@ _cast
 FormatError
 memmove
 c_longdouble
-set_last_error
 _c_functype_cache
 create_unicode_buffer
 _cast_addr

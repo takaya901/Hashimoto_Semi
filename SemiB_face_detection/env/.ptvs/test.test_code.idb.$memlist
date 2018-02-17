@@ -8,8 +8,9 @@ ctypes
 GetExtra
 SetExtra
 freefunc
+dump
 run_unittest
-threading
+inspect
 consts
 test_main
 FREE_INDEX
@@ -20,7 +21,8 @@ run_doctest
 check_impl_detail
 CodeConstsTest
 RequestCodeExtraIndex
-dump
-cpython_only
 CodeWeakRefTest
+threading
+cpython_only
 unittest
+external_getitem
